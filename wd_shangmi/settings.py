@@ -159,9 +159,9 @@ USER_TOKEN_LIFE = 60*60*24*15  # 15天
 
 # 短信接口发验证码
 REGION_ID = "cn-hangzhou"
-ACCESS_KEY_ID = "LTAI1SlbkaF1RoM2"
-ACCESS_KEY_SECRET = "7r64838EvfklawCfwg7Y6Guac86r0D"
-DOMAIN = "dysmsapi.aliyuncs.com"
+ACCESS_KEY_ID = "111"
+ACCESS_KEY_SECRET = "222"
+DOMAIN = "www.aliyuncs.com"
 # 签名
 SIGN_NAME = "idonan"
 # 短信模板
